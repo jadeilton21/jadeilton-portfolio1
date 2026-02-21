@@ -8,6 +8,9 @@ O projeto foi criado inicialmente como **teste e base de estudos**, servindo com
 
 ## 🖥️ Visão Geral
 
+
+![Diagrama](./jadeilton-portifolio.png)  
+
 O site apresenta um layout simples, moderno e com tema escuro, contendo:
 
 - Seção **Sobre Mim**
@@ -20,9 +23,6 @@ O site apresenta um layout simples, moderno e com tema escuro, contendo:
 
 ## 🚀 Tecnologias Utilizadas
 
-<p align="center">
-  <img src="./jadeiolton-portifolio1.png" alt="Login Page Preview" width="700">
-</p>
 
 
 - **HTML5** – Estrutura da aplicação  
