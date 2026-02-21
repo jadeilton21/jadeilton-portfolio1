@@ -9,7 +9,7 @@ O projeto foi criado inicialmente como **teste e base de estudos**, servindo com
 ## 🖥️ Visão Geral
 
 
-![Diagrama](./jadeilton-portifolio.png)  
+![Diagrama](./jadeilton-portifolio1.png)  
 
 O site apresenta um layout simples, moderno e com tema escuro, contendo:
 
